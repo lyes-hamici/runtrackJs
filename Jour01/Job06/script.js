@@ -1,9 +1,16 @@
-function afficherJoursSemaines(){
-    const jour = []
-    jour.push("lundi", "mardi", "mercedi","jeudi","vendredi","samedi","dimanche")
-    for (let i = 0; i < jour.length; i++) {
-        console.log(jour[i]);
-      } 
-    }
+function fizzbuzz() {
+  for (let i = 1; i <= 151; i++) {
+      if (i % 3 === 0 && i % 5 === 0) {
+          console.log("FizzBuzz");
+      } else if (i % 3 === 0) {
+          console.log("Fizz");
+      } else if (i % 5 === 0) {
+          console.log("Buzz");
+      } else {
+          console.log(i);
+      }
+  }
+}
 
-afficherJoursSemaines()
+// Appeler la fonction fizzbuzz pour l'exécuter
+fizzbuzz();
