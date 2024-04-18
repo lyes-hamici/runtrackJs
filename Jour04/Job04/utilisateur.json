@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "first_name": "ZT",
+        "last_name": "Abarax",
+        "email": "ZT.Aba@gmail.com"
+    },
+    {
+        "id": 2,
+        "first_name": "ZT",
+        "last_name": "Myrturtle",
+        "email": "ZT.Myrturtle@gmail.com"
+    },
+    {
+        "id": 3,
+        "first_name": "ZT",
+        "last_name": "Zeyhelm",
+        "email": "ZT.Zeyhelm@gmail.com"
+    },
+
+    {
+        "id": 4,
+        "first_name": "Soldat",
+        "last_name": "Brarax",
+        "email": "S.B@gmail.com"
+    }
+]
